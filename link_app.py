@@ -504,7 +504,7 @@ def main():
 				st.write("Establish project plans, tasks, resources, and ownership to ensure timelines are met")
 
 #---------------------------------------------------------------------------------
-# -----CONTACT--------
+# -----CONTACTS--------
 	if selection == "Contact Us":
 		st.header("Get In Touch With Us!")
 		collage = Image.open("resources/imgs/Collage2.png")
