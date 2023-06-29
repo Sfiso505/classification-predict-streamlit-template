@@ -1,0 +1,19 @@
+1. pip install streamlit
+2. pip install streamlit-option-menu
+3. pip install seaborn
+4. pip install nlppreprocess
+5. pip install nltk
+6. python -m nltk.downloader all
+7. pip install -U streamlit numpy pandas scikit-learn
+6. sudo lsof -i :5000
+7. sudo kill <PID>
+
+streamlit run --server.port 5000 base_app.py
+streamlit run base_app.py
+
+MY TOKEN
+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
+
+If you want to clone the repository again, you can remove the existing directory first:
+
+rm -rf FM3-link
